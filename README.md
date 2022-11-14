@@ -1,6 +1,6 @@
 # Final Year Project
 ## Introduction
-This repo holds our final year project of our 4th year in Galway-Mayo Institute of Technology. We decided to make a an e-commerce application and we decided on the name Fabrik
+We decided to make a an e-commerce application and we decided on the name Fabrik
 ## How to run locally
 * Install Python if you have not already
 * Clone the repo
